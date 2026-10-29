@@ -1,6 +1,7 @@
 # Cognic
+Cognic is a general-purpose, local-first project-aware learning studio designed to help developers understand the code they build. Its intended workflow will turn codebases into interactive architecture maps, source-grounded lessons, and hands-on practice.
 
-Cognic is a general-purpose, local-first project-aware learning studio. This initial scaffold contains a React + TypeScript + Vite workspace shell and a FastAPI service with health and Ollama status endpoints. It does not import or inspect repositories yet.
+This initial scaffold contains a React + TypeScript + Vite workspace shell and a FastAPI service with health and Ollama status endpoints. It does not import or inspect repositories yet.
 
 ## Requirements
 
